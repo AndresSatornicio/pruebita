@@ -1,0 +1,10 @@
+crear proyecto en angular 
+ ng new xxxxx --prefix xx --routing
+
+crear un componente
+ng generate component xxxx --module xdsds
+
+crear un mudulo 
+ng generate module xxxx --module xx
+
+1920 x 900
